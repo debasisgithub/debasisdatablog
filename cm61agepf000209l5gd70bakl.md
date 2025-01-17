@@ -33,4 +33,4 @@ There are two broad category of user types in Azure AD:
     
     **Not added to AAD**
     
-    **Limited access, cannot use Azure Databricks workspace**
+    **Limited access, cannot use Azure Databricks workspace.**
